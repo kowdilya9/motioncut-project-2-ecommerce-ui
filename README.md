@@ -3,7 +3,7 @@
 A modern and conversion-focused mobile product detail page UI for an e-commerce application[cite: 1].
 
 ## 📱 Screen Preview
-<img src="project-2-ecommerce.png" width="350">
+<img src="project-2-ecommerce1.png" width="350">
 
 ## 🎯 Features Designed
 - **Header:** Back button, wishlist icon, and cart icon[cite: 1].
